@@ -1,0 +1,1 @@
+sudo equo --info|grep 'Total installed' > .equopak

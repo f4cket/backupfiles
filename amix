@@ -1,0 +1,1 @@
+amixer scontents |grep 'Mono: Playback ' |awk '{print $4}' > /home/simon/.amix
